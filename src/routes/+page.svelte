@@ -14,71 +14,71 @@
 
   // Data
   const heroImages = [
-    "https://images.unsplash.com/photo-1522163182402-834f871fd851?q=80&w=600&auto=format&fit=crop", // Climbing
-    "https://images.unsplash.com/photo-1544967082-d9d25d867d66?q=80&w=600&auto=format&fit=crop", // Bench/View
-    "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=600&auto=format&fit=crop", // Hiking/Mountain
-    "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?q=80&w=600&auto=format&fit=crop", // Running
-    "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?q=80&w=600&auto=format&fit=crop", // Snow
-    "https://images.unsplash.com/photo-1596329606822-790d946d9e29?q=80&w=600&auto=format&fit=crop"  // Park
+    "/generated/image-professional-podcast-host-speaking-into--1765401778539-0.webp",
+    "/generated/image-confident-business-executive-giving-pres-1765401781495-1.webp",
+    "/generated/image-author-writing-at-desk-with-books-and-la-1765401783672-2.webp",
+    "/generated/image-content-creator-recording-video-in-home--1765401785991-3.webp",
+    "/generated/image-coach-mentoring-client-in-bright-modern--1765401788424-4.webp",
+    "/generated/image-entrepreneur-working-on-laptop-in-creati-1765401790727-5.webp"
   ];
 
   const benefitCards = [
     {
-      title: "All your data. One place.",
-      desc: "Holo takes into account your lifestyle and habits, your past results, and connects your wearable data.",
-      image: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=800&auto=format&fit=crop"
+      title: "Deploy everywhere.",
+      desc: "Your Digital Mind works across SMS, WhatsApp, Slack, websites, voice, video, and phone calls.",
+      image: "/generated/image-person-using-smartphone-with-messaging-i-1765401793109-6.webp"
     },
     {
-      title: "Better control over your performance.",
-      desc: "Start thriving by tracking your daily strain, recovery and sleep.",
-      image: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=800&auto=format&fit=crop"
+      title: "Your authentic voice.",
+      desc: "Advanced voice synthesis captures your tone, style, and knowledge to create truly personalized interactions.",
+      image: "/generated/image-professional-recording-audio-content-wit-1765401795456-7.webp"
     },
     {
-      title: "Proactive care.",
-      desc: "Health is not just the absence of illness but the engagement with vitality everyday.",
-      image: "https://images.unsplash.com/photo-1544717305-2782549b5136?q=80&w=800&auto=format&fit=crop"
+      title: "Train with your content.",
+      desc: "Upload text, audio, video or link to live feeds. Delphi indexes everything to mirror your expertise.",
+      image: "/generated/image-person-organizing-digital-content-on-mul-1765401797639-8.webp"
     }
   ];
 
   const steps = [
     {
       step: 1,
-      title: "Chose the plan that fits you better.",
-      desc: "Two options available. Get the Core plan with 110+ biomarkers to access the most advance lab test or choose the Starter plan to test 60+ essential biomarkers.",
+      title: "Connect your content.",
+      desc: "Upload or link your existing content—text, audio, video, podcasts, articles, or live feeds. Delphi makes it easy to get started.",
       image: "plan"
     },
     {
       step: 2,
-      title: "Schedule your appointment.",
-      desc: "Choose the most convenient lab location for you and follow the instructions before the test.",
+      title: "Train your Digital Mind.",
+      desc: "Our system automatically indexes your content and learns your unique style, tone, and expertise. Customize behavior with simple notes.",
       image: "schedule"
     },
     {
       step: 3,
-      title: "Receive first results.",
-      desc: "Within 24 hours directly on your app. When all your results are available, our medical team will start working on your Clinician Notes.",
+      title: "Review and refine.",
+      desc: "Test your Digital Mind, see how it responds, and make adjustments. You maintain complete control over what it says and how it sounds.",
       image: "results"
     },
     {
       step: 4,
-      title: "Your Clinician Notes are ready.",
-      desc: "Receive your Clinician Notes and personalized Action Plan within 7 days from your results.",
+      title: "Deploy across channels.",
+      desc: "Share your Digital Mind via SMS, WhatsApp, Slack, your website, or even voice and video calls. One AI, infinite reach.",
       image: "notes"
     },
     {
       step: 5,
-      title: "Start improving.",
-      desc: "Continue your health journey together with Holo AI and your Action Plan. Recheck in 6 months with the Follow-up test.",
+      title: "Scale your engagement.",
+      desc: "Your Digital Mind handles unlimited conversations while you focus on what matters. Keep every relationship alive, automatically.",
       image: "improve"
     }
   ];
 
   const faqs = [
-    "What does a Holo membership include?",
-    "Is Holo for you?",
-    "What more does Holo offer than my regular doctor or insurance?",
-    "I recently got tested. Should I wait to join Holo?",
-    "Which biomarkers are included in the Holo membership?"
+    "How does Delphi train on my content?",
+    "Is Delphi right for me?",
+    "How does voice cloning work?",
+    "Can I control what my Digital Mind says?",
+    "Where can I deploy my Digital Mind?"
   ];
 </script>
 
@@ -88,13 +88,13 @@
   <!-- Hero Section -->
   <section class="pt-32 pb-16 md:pt-40 md:pb-24 px-6 text-center max-w-7xl mx-auto">
     <h1 class="text-4xl md:text-6xl lg:text-7xl font-medium tracking-tight text-[#1A1A1A] mb-6 leading-[1.1]">
-      Your companion<br />for lifelong vitality.
+      Clone your expertise.<br />Scale your influence.
     </h1>
     <p class="text-gray-600 text-lg md:text-xl max-w-3xl mx-auto mb-10 leading-relaxed font-light">
-      Test 110+ biomarkers every year, track all your health in a single place, and get insights from top doctors. All starting at just €199.
+      Turn your knowledge into a conversational AI that speaks with your voice, thinks like you, and engages your audience 24/7 across every channel.
     </p>
     <button class="bg-[#1A1A1A] text-white px-8 py-3.5 rounded-sm font-medium hover:bg-black transition-colors">
-      Start testing
+      Create Your Digital Mind
     </button>
   </section>
 
@@ -103,14 +103,14 @@
     <div class="flex gap-4 px-6 min-w-max">
       {#each heroImages as img, i}
         <div class="relative w-48 h-64 md:w-64 md:h-80 rounded-3xl overflow-hidden flex-shrink-0">
-          <img src={img} alt="Lifestyle" class="w-full h-full object-cover" />
+          <img src={img} alt="Thought Leaders" class="w-full h-full object-cover" />
         </div>
       {/each}
     </div>
   </div>
 
   <!-- App Feature Section -->
-  <section class="py-20 px-6 max-w-7xl mx-auto">
+  <section class="py-20 px-6 max-w-7xl mx-auto" id="features">
     <div class="bg-white rounded-[40px] p-8 md:p-16 flex flex-col md:flex-row items-center gap-12 shadow-sm">
       <!-- Phone Mockup -->
       <div class="w-full md:w-1/2 flex justify-center">
@@ -119,28 +119,34 @@
             <div class="w-20 h-4 bg-black rounded-b-xl"></div>
           </div>
           <div class="w-full h-full bg-white pt-10 px-4 overflow-hidden flex flex-col">
-            <!-- Mock UI -->
+            <!-- Mock Chat UI -->
             <div class="flex justify-between items-center mb-6">
-              <div class="w-8 h-8 rounded-full bg-gray-200"></div>
-              <div class="w-8 h-8 rounded-full bg-gray-100"></div>
+              <div class="flex items-center gap-2">
+                <div class="w-8 h-8 rounded-full bg-primary-500"></div>
+                <div>
+                  <div class="text-xs font-medium">Your Digital Mind</div>
+                  <div class="text-[10px] text-gray-400">Active</div>
+                </div>
+              </div>
+              <div class="w-6 h-6 rounded-full bg-gray-100"></div>
             </div>
-            <div class="mb-6">
-              <div class="text-xs text-gray-500 mb-1">30 June</div>
-              <div class="text-2xl font-bold">1</div>
+            <div class="space-y-3 flex-1 overflow-hidden">
+              <div class="bg-gray-100 p-3 rounded-2xl rounded-tl-sm text-xs max-w-[85%]">
+                How do you balance art and business in music?
+              </div>
+              <div class="bg-primary-500 text-white p-3 rounded-2xl rounded-tr-sm text-xs ml-auto max-w-[85%]">
+                It's about staying true to your creative vision while understanding the business side. I've learned that authenticity actually drives commercial success...
+              </div>
+              <div class="bg-gray-100 p-3 rounded-2xl rounded-tl-sm text-xs max-w-[85%]">
+                What's your advice for new creators?
+              </div>
+              <div class="bg-primary-500 text-white p-3 rounded-2xl rounded-tr-sm text-xs ml-auto max-w-[85%]">
+                Start with your unique voice. Don't try to copy what's trending. Build genuine connections...
+              </div>
             </div>
-            <div class="space-y-3">
-              <div class="h-20 bg-gray-50 rounded-xl w-full border border-gray-100 p-3">
-                <div class="w-1/2 h-2 bg-gray-200 rounded mb-2"></div>
-                <div class="w-full h-1 bg-green-400 rounded"></div>
-              </div>
-              <div class="h-20 bg-gray-50 rounded-xl w-full border border-gray-100 p-3">
-                <div class="w-1/2 h-2 bg-gray-200 rounded mb-2"></div>
-                <div class="w-full h-1 bg-orange-400 rounded"></div>
-              </div>
-              <div class="h-20 bg-gray-50 rounded-xl w-full border border-gray-100 p-3">
-                <div class="w-1/2 h-2 bg-gray-200 rounded mb-2"></div>
-                <div class="w-full h-1 bg-blue-400 rounded"></div>
-              </div>
+            <div class="mt-4 flex items-center gap-2 p-2 bg-gray-50 rounded-full">
+              <div class="flex-1 h-8 flex items-center px-3 text-[10px] text-gray-400">Type your question...</div>
+              <div class="w-8 h-8 rounded-full bg-black"></div>
             </div>
           </div>
         </div>
@@ -149,13 +155,13 @@
       <!-- Content -->
       <div class="w-full md:w-1/2 space-y-8">
         <h2 class="text-3xl md:text-4xl font-medium leading-tight text-[#1A1A1A]">
-          Your health at a glance.<br />
-          See your daily Strain, Recovery and Sleep goals. Explore your biomarkers, understand what they mean, and access your Personalized Report, including your Action Plan created after your test.
+          Conversations that feel real.<br />
+          Your Digital Mind speaks with your authentic voice, shares your knowledge, and maintains your unique perspective in every interaction.
         </h2>
         <div class="flex items-center justify-between pt-4">
           <button class="flex items-center gap-2 text-[#1A1A1A] font-medium hover:opacity-70 transition-opacity">
             {@html PlayCircle}
-            Watch video
+            See it in action
           </button>
           <div class="flex gap-2">
             <button class="p-2 rounded-full border border-gray-200 hover:bg-gray-50 text-gray-400 hover:text-black transition-colors">
@@ -174,10 +180,10 @@
   <section class="py-16 px-6 max-w-7xl mx-auto">
     <div class="grid md:grid-cols-2 gap-12 items-start">
       <h2 class="text-3xl md:text-5xl font-medium tracking-tight text-[#1A1A1A] leading-tight">
-        You deserve to live fully, longer, and better.
+        Never repeat yourself again.
       </h2>
       <p class="text-gray-600 text-lg font-light leading-relaxed">
-        Your health is more than numbers, it's your story, your future. Taking care of it today means giving yourself the chance to enjoy more years with strength, clarity, and vitality. We're here to help you protect what truly matters: a healthier, longer life.
+        Your expertise is valuable. Your time is limited. Delphi lets you scale personal engagement without sacrificing authenticity. Keep every relationship alive, answer every question, and maintain your influence—all while focusing on what matters most.
       </p>
     </div>
   </section>
@@ -201,13 +207,13 @@
   <!-- Testimonial -->
   <section class="py-24 px-6 max-w-4xl mx-auto text-center">
     <blockquote class="text-2xl md:text-3xl font-medium leading-relaxed text-[#1A1A1A] mb-8">
-      "I've always wanted a tool like Holo. It gives people real power over their health in a way that's simple and intuitive. I love how deeply personalized it is, making it easier than ever to understand your body and make smart choices"
+      "Delphi lets me scale my impact in a way I never thought possible. It's like having a version of myself that can help thousands of people simultaneously, while maintaining the authentic voice and insights that took me decades to develop."
     </blockquote>
     <div class="flex flex-col items-center gap-3">
-      <img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=100&auto=format&fit=crop" alt="Doctor" class="w-12 h-12 rounded-full object-cover" />
+      <img src="/generated/image-brian-halligan-mature-professional-busin-1765401799917-9.webp" alt="Brian Halligan" class="w-12 h-12 rounded-full object-cover" />
       <div class="text-center">
-        <div class="font-medium text-sm">Dra. Cécile Merad</div>
-        <div class="text-gray-500 text-xs">Functional Doctor</div>
+        <div class="font-medium text-sm">Brian Halligan</div>
+        <div class="text-gray-500 text-xs">Co-founder of HubSpot</div>
       </div>
     </div>
   </section>
@@ -216,16 +222,16 @@
   <section class="py-12 px-6 max-w-7xl mx-auto border-t border-gray-200">
     <div class="grid md:grid-cols-3 gap-8 text-center md:text-left">
       <div>
-        <h3 class="text-xl font-medium mb-2">15 minutes lab visit.</h3>
-        <p class="text-gray-500 text-sm font-light">In and out. Take your blood and urine test. One minute with the nurse. Quick and simple.</p>
+        <h3 class="text-xl font-medium mb-2">Minutes to set up.</h3>
+        <p class="text-gray-500 text-sm font-light">Upload your content or link to existing sources. Your Digital Mind starts learning immediately.</p>
       </div>
       <div>
-        <h3 class="text-xl font-medium mb-2">24 hours first results.</h3>
-        <p class="text-gray-500 text-sm font-light">Your lab test data, fast. Complete results in five business days.</p>
+        <h3 class="text-xl font-medium mb-2">Unlimited conversations.</h3>
+        <p class="text-gray-500 text-sm font-light">Scale to 100M interactions. Your Digital Mind never gets tired, never forgets, always available.</p>
       </div>
       <div>
-        <h3 class="text-xl font-medium mb-2">Clinician Notes in 1 week.</h3>
-        <p class="text-gray-500 text-sm font-light">From data to a clear Action Plan to guide you along your health path.</p>
+        <h3 class="text-xl font-medium mb-2">Deploy everywhere.</h3>
+        <p class="text-gray-500 text-sm font-light">SMS, WhatsApp, Slack, web, voice, video. One Digital Mind, infinite reach across all channels.</p>
       </div>
     </div>
   </section>
@@ -234,7 +240,7 @@
   <section class="py-20 px-6 max-w-7xl mx-auto">
     <div class="mb-16 max-w-md">
       <h2 class="text-4xl font-medium mb-6">How it works.</h2>
-      <p class="text-gray-600 font-light">With two lab tests a year, daily tracking from your phone and wearables, and guidance from real doctors, Holo helps you understand what's going on inside so you can make smarter, healthier choices.</p>
+      <p class="text-gray-600 font-light">From content upload to deployment, Delphi makes it simple to create your Digital Mind. Train it on your expertise, customize its behavior, and deploy it across every channel where your audience needs you.</p>
     </div>
 
     <div class="space-y-6">
@@ -314,19 +320,16 @@
   <!-- Dark Cards Section -->
   <section class="py-8 px-6 max-w-7xl mx-auto">
     <div class="grid md:grid-cols-2 gap-6">
-      <!-- Map Card -->
+      <!-- Authenticity Card -->
       <div class="bg-[#111] rounded-[40px] p-8 md:p-12 text-white min-h-[500px] flex flex-col relative overflow-hidden">
         <div class="relative z-10">
-          <h3 class="text-sm font-medium text-gray-400 mb-2">A five star experience.</h3>
-          <h2 class="text-2xl md:text-3xl font-medium max-w-xs">We partner exclusively with renowned labs.</h2>
+          <h3 class="text-sm font-medium text-gray-400 mb-2">Your authentic voice.</h3>
+          <h2 class="text-2xl md:text-3xl font-medium max-w-xs">Your Digital Mind only speaks your words, never improvises.</h2>
         </div>
-        <!-- Abstract Map Visual -->
-        <div class="absolute inset-0 flex items-center justify-center opacity-30 mt-20">
-           <svg viewBox="0 0 200 100" class="w-full h-full text-gray-500 fill-current">
-              <!-- Simplified dot map representation -->
-              {#each Array(100) as _, i}
-                <circle cx={Math.random() * 200} cy={Math.random() * 100} r={Math.random() * 1.5} />
-              {/each}
+        <!-- Lightning Visual -->
+        <div class="absolute inset-0 flex items-center justify-center opacity-10 mt-20">
+           <svg width="200" height="220" viewBox="0 0 91 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path fill-rule="evenodd" clip-rule="evenodd" d="M38.5213 0H71.8426L50.2602 28.5752H90.6904L19.0338 100L40.8851 51.8383H0.69043L38.5213 0Z" fill="white"/>
            </svg>
         </div>
       </div>
@@ -335,12 +338,12 @@
       <div class="bg-[#111] rounded-[40px] p-8 md:p-12 text-white min-h-[500px] flex flex-col relative overflow-hidden">
         <div class="relative z-10">
           <h3 class="text-sm font-medium text-gray-400 mb-2">Your data is safe with us.</h3>
-          <h2 class="text-2xl md:text-3xl font-medium max-w-xs">We're built to protect your privacy by default.</h2>
+          <h2 class="text-2xl md:text-3xl font-medium max-w-xs">Fully encrypted. Never shared. You maintain complete ownership.</h2>
         </div>
         <!-- Blurred Text Visual -->
         <div class="absolute inset-0 flex items-center justify-center mt-20 overflow-hidden">
            <div class="text-4xl font-mono text-gray-600 opacity-20 blur-sm select-none break-all p-8">
-             Elizab|%b$9yT Willi|I7m/e Magn|&5a! Trigly|?Pm_Lw
+             Cont|%nt$9yT Knowl|I7dge Voic|&5e! Exper|?tise_Lw
            </div>
         </div>
       </div>
@@ -350,71 +353,85 @@
   <!-- Pricing Section -->
   <section class="py-24 px-6 max-w-7xl mx-auto" id="join">
     <div class="text-center mb-16">
-      <h2 class="text-3xl md:text-4xl font-medium mb-4">Preventive healthcare for everyone.</h2>
-      <p class="text-gray-500 font-light max-w-2xl mx-auto">Top-tier testing, real-time tracking, and dedicated clinician guidance—made affordable. Because investing in prevention is the most important investing of your life.</p>
+      <h2 class="text-3xl md:text-4xl font-medium mb-4">Scale your expertise.</h2>
+      <p class="text-gray-500 font-light max-w-2xl mx-auto">From individual creators to world-class leaders, Delphi helps you clone your expertise and scale personal engagement across unlimited conversations.</p>
     </div>
 
     <div class="grid md:grid-cols-2 gap-6 max-w-4xl mx-auto">
-      <!-- Starter Plan -->
+      <!-- Creator Plan -->
       <div class="bg-white rounded-[32px] p-8 flex flex-col">
-        <div class="w-12 h-12 bg-gray-100 rounded-full mb-6"></div>
-        <h3 class="text-2xl font-medium mb-1">Starter</h3>
-        <p class="text-sm text-gray-500 mb-6">Begin your health journey.</p>
+        <div class="w-12 h-12 bg-gray-100 rounded-full mb-6 flex items-center justify-center">
+          <svg width="20" height="22" viewBox="0 0 91 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M38.5213 0H71.8426L50.2602 28.5752H90.6904L19.0338 100L40.8851 51.8383H0.69043L38.5213 0Z" fill="black"/>
+          </svg>
+        </div>
+        <h3 class="text-2xl font-medium mb-1">Creator</h3>
+        <p class="text-sm text-gray-500 mb-6">For experts and creators.</p>
         <div class="mb-8">
-          <span class="text-2xl font-medium">€199</span>
-          <span class="text-gray-400 text-sm">/yr</span>
-          <div class="text-[10px] text-pink-500 mt-1 font-medium">Pay in installments with Klarna.</div>
+          <span class="text-2xl font-medium">Custom pricing</span>
+          <div class="text-[10px] text-gray-500 mt-1 font-medium">Starting at $99/month</div>
         </div>
         <ul class="space-y-4 mb-8 flex-1">
           <li class="flex items-start gap-3 text-sm text-gray-600 font-light">
             <span class="mt-0.5 text-black">{@html Check}</span>
-            Two tests a year covering 60+ essential biomarkers.
+            Train on unlimited content from text, audio, and video sources.
           </li>
           <li class="flex items-start gap-3 text-sm text-gray-600 font-light">
             <span class="mt-0.5 text-black">{@html Check}</span>
-            Measure your Biological Age and Aging Rate with every test.
+            Deploy across SMS, WhatsApp, Slack, and web.
           </li>
           <li class="flex items-start gap-3 text-sm text-gray-600 font-light">
             <span class="mt-0.5 text-black">{@html Check}</span>
-            Clinician Notes and personalized Action Plan to guide your health.
+            Voice synthesis to match your authentic tone and style.
+          </li>
+          <li class="flex items-start gap-3 text-sm text-gray-600 font-light">
+            <span class="mt-0.5 text-black">{@html Check}</span>
+            Analytics and conversation insights.
           </li>
         </ul>
-        <button class="w-full bg-[#1A1A1A] text-white py-3 rounded-sm font-medium hover:bg-black transition-colors">Join now</button>
+        <button class="w-full bg-[#1A1A1A] text-white py-3 rounded-sm font-medium hover:bg-black transition-colors">Get Started</button>
       </div>
 
-      <!-- Core Plan -->
+      <!-- Immortal Plan -->
       <div class="bg-white rounded-[32px] p-8 flex flex-col relative overflow-hidden">
-        <div class="absolute top-0 right-0 bg-[#FFF8E1] px-4 py-1 rounded-bl-xl text-xs font-medium text-orange-800">Most Popular</div>
-        <div class="w-12 h-12 bg-orange-100 rounded-full mb-6"></div>
-        <h3 class="text-2xl font-medium mb-1">Core</h3>
-        <p class="text-sm text-gray-500 mb-6">The most advanced longevity membership.</p>
+        <div class="absolute top-0 right-0 bg-primary-100 px-4 py-1 rounded-bl-xl text-xs font-medium text-primary-900">Premium</div>
+        <div class="w-12 h-12 bg-primary-100 rounded-full mb-6 flex items-center justify-center">
+          <svg width="20" height="22" viewBox="0 0 91 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M38.5213 0H71.8426L50.2602 28.5752H90.6904L19.0338 100L40.8851 51.8383H0.69043L38.5213 0Z" fill="oklch(0.769 0.188 70.08)"/>
+          </svg>
+        </div>
+        <h3 class="text-2xl font-medium mb-1">Immortal</h3>
+        <p class="text-sm text-gray-500 mb-6">For world-class leaders.</p>
         <div class="mb-8">
-          <span class="text-2xl font-medium">€399</span>
-          <span class="text-gray-400 text-sm">/yr</span>
-          <div class="text-[10px] text-pink-500 mt-1 font-medium">Pay in installments with Klarna.</div>
+          <span class="text-2xl font-medium">Enterprise</span>
+          <div class="text-[10px] text-gray-500 mt-1 font-medium">Contact for pricing</div>
         </div>
         <ul class="space-y-4 mb-8 flex-1">
           <li class="flex items-start gap-3 text-sm text-gray-600 font-light">
             <span class="mt-0.5 text-black">{@html Check}</span>
-            Full Core test of 110+ biomarkers plus a Follow-up with 60+ biomarkers to track change.
+            Everything in Creator, plus advanced voice and video cloning.
           </li>
           <li class="flex items-start gap-3 text-sm text-gray-600 font-light">
             <span class="mt-0.5 text-black">{@html Check}</span>
-            First test includes an extended Hormonal and Vitamins panel for deeper insights.
+            Phone call integration for voice conversations.
           </li>
           <li class="flex items-start gap-3 text-sm text-gray-600 font-light">
             <span class="mt-0.5 text-black">{@html Check}</span>
-            Clinician Notes and a personalized Action Plan built on your most complete lab testing profile.
+            Priority support and dedicated success manager.
+          </li>
+          <li class="flex items-start gap-3 text-sm text-gray-600 font-light">
+            <span class="mt-0.5 text-black">{@html Check}</span>
+            Exclusive community of transformational leaders.
           </li>
         </ul>
-        <button class="w-full bg-[#1A1A1A] text-white py-3 rounded-sm font-medium hover:bg-black transition-colors">Join now</button>
+        <button class="w-full bg-[#1A1A1A] text-white py-3 rounded-sm font-medium hover:bg-black transition-colors">Contact Sales</button>
       </div>
     </div>
   </section>
 
   <!-- FAQ -->
   <section class="py-20 px-6 max-w-3xl mx-auto" id="faq">
-    <h2 class="text-3xl font-medium text-center mb-12">Your questions answered.</h2>
+    <h2 class="text-3xl font-medium text-center mb-12">Frequently asked questions.</h2>
     <div class="space-y-4">
       {#each faqs as question}
         <div class="border-b border-gray-200 py-4 flex justify-between items-center cursor-pointer group hover:bg-gray-50/50 transition-colors px-2">
@@ -435,18 +452,15 @@
     <div class="max-w-7xl mx-auto">
       <div class="flex flex-col md:flex-row justify-between items-start md:items-center gap-8 mb-16">
         <div class="flex items-center gap-2">
-           <div class="relative w-5 h-5 flex items-center justify-center">
-              <div class="absolute w-full h-[1.5px] bg-black rotate-45"></div>
-              <div class="absolute w-full h-[1.5px] bg-black -rotate-45"></div>
-              <div class="absolute w-[1.5px] h-full bg-black"></div>
-              <div class="absolute w-full h-[1.5px] bg-black"></div>
-           </div>
-           <span class="font-bold text-lg tracking-widest">HOLO</span>
+           <svg width="24" height="26" viewBox="0 0 91 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path fill-rule="evenodd" clip-rule="evenodd" d="M38.5213 0H71.8426L50.2602 28.5752H90.6904L19.0338 100L40.8851 51.8383H0.69043L38.5213 0Z" fill="black"/>
+           </svg>
+           <span class="font-bold text-lg tracking-wide">Delphi</span>
         </div>
         
         <nav class="flex flex-wrap gap-6 md:gap-8 text-xs font-medium text-gray-600">
-          <a href="#" class="hover:text-black">Biomarkers</a>
-          <a href="#" class="hover:text-black">FAQ</a>
+          <a href="#features" class="hover:text-black">Features</a>
+          <a href="#faq" class="hover:text-black">FAQ</a>
           <a href="#" class="hover:text-black">Blog</a>
           <a href="#" class="hover:text-black">Terms & Conditions</a>
           <a href="#" class="hover:text-black">Privacy Policy</a>
@@ -460,9 +474,9 @@
       </div>
 
       <div class="text-[10px] text-gray-400 leading-relaxed max-w-5xl">
-        <p class="mb-2">Holo is a technology company, not a laboratory or medical provider. All lab and medical services are provided by independent third parties, who set their own pricing. While Holo facilitates access to certain providers, it does not recommend or refer healthcare providers. Holo does not offer medical advice, lab services, diagnosis, treatment, or medical opinions. All services do not replace medical care or consultations with a licensed provider. If you have questions about lab results, consult a primary care physician or other licensed provider. All information provided by Holo is for general informational purposes only.</p>
-        <p>Holo's membership pricing includes prepaid access to certain third-party lab services. Some home and lab draw fees may apply. Additional payments beyond standard membership pricing. For more details, see our Terms & Conditions.</p>
-        <p class="mt-2">By providing your phone number, you agree to receive text messages from Holo. Message and data rates may apply. Message frequency varies.</p>
+        <p class="mb-2">This AI service is experimental. We are excited to help you, but as with any new service, please use your best judgment before acting on advice. Delphi is a technology platform that enables users to create AI-powered Digital Minds. All content generated by Digital Minds is based on user-provided training data. Delphi does not provide professional advice, medical opinions, legal counsel, or financial guidance. Users maintain complete ownership of their data, which is fully encrypted and never shared or sold.</p>
+        <p>Your Digital Mind only speaks your words and does not improvise without consent. We maintain strict privacy standards for all conversations. For more details about how we protect your data and maintain authenticity, see our Terms & Conditions and Privacy Policy.</p>
+        <p class="mt-2">By using Delphi, you agree to our terms of service. Message and data rates may apply for SMS and WhatsApp deployments. Message frequency varies based on your configuration.</p>
       </div>
     </div>
   </footer>

@@ -16,23 +16,20 @@
   <div class="flex items-center">
     <!-- Logo -->
     <a href="/" class="flex items-center gap-2 group">
-      <div class="relative w-5 h-5 flex items-center justify-center">
-        <div class="absolute w-full h-[1.5px] bg-black rotate-45"></div>
-        <div class="absolute w-full h-[1.5px] bg-black -rotate-45"></div>
-        <div class="absolute w-[1.5px] h-full bg-black"></div>
-        <div class="absolute w-full h-[1.5px] bg-black"></div>
-      </div>
-      <span class="font-bold text-xl tracking-widest text-[#1A1A1A]">HOLO</span>
+      <svg width="24" height="26" viewBox="0 0 91 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M38.5213 0H71.8426L50.2602 28.5752H90.6904L19.0338 100L40.8851 51.8383H0.69043L38.5213 0Z" fill="black"/>
+      </svg>
+      <span class="font-bold text-xl tracking-wide text-[#1A1A1A]">Delphi</span>
     </a>
   </div>
 
   <div class="flex items-center gap-8">
     <nav class="hidden md:flex items-center gap-8 text-[13px] font-medium text-gray-600">
-      <a href="#biomarkers" class="hover:text-black transition-colors">Biomarkers</a>
+      <a href="#features" class="hover:text-black transition-colors">Features</a>
       <a href="#faq" class="hover:text-black transition-colors">FAQ</a>
     </nav>
     <a href="#join" class="bg-[#1A1A1A] text-white text-[13px] font-medium px-5 py-2.5 rounded-sm hover:bg-black transition-colors">
-      Join now
+      Get Started
     </a>
   </div>
 </header>
